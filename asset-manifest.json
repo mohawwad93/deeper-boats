@@ -9,5 +9,6 @@
   "static/css/main.3365d089.chunk.css.map": "/deeper-boats/static/css/main.3365d089.chunk.css.map",
   "index.html": "/deeper-boats/index.html",
   "precache-manifest.6b852b388a46b6aa5ed7d816fabce04e.js": "/deeper-boats/precache-manifest.6b852b388a46b6aa5ed7d816fabce04e.js",
-  "service-worker.js": "/deeper-boats/service-worker.js"
+  "service-worker.js": "/deeper-boats/service-worker.js",
+  "web_model": "/deeper-boats/web_model"
 }
