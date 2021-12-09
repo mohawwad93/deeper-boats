@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deeper-boats/static/css/main.4532704c.chunk.css",
+    "main.js": "/deeper-boats/static/js/main.1f3c0d84.chunk.js",
+    "main.js.map": "/deeper-boats/static/js/main.1f3c0d84.chunk.js.map",
+    "runtime-main.js": "/deeper-boats/static/js/runtime-main.98095939.js",
+    "runtime-main.js.map": "/deeper-boats/static/js/runtime-main.98095939.js.map",
+    "static/js/2.586f2370.chunk.js": "/deeper-boats/static/js/2.586f2370.chunk.js",
+    "static/js/2.586f2370.chunk.js.map": "/deeper-boats/static/js/2.586f2370.chunk.js.map",
+    "static/js/3.bc04a0f2.chunk.js": "/deeper-boats/static/js/3.bc04a0f2.chunk.js",
+    "static/js/3.bc04a0f2.chunk.js.map": "/deeper-boats/static/js/3.bc04a0f2.chunk.js.map",
+    "index.html": "/deeper-boats/index.html",
+    "static/css/main.4532704c.chunk.css.map": "/deeper-boats/static/css/main.4532704c.chunk.css.map",
+    "static/js/2.586f2370.chunk.js.LICENSE.txt": "/deeper-boats/static/js/2.586f2370.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98095939.js",
+    "static/js/2.586f2370.chunk.js",
+    "static/css/main.4532704c.chunk.css",
+    "static/js/main.1f3c0d84.chunk.js"
+  ]
+}
