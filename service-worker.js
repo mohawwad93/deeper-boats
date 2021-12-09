@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/deeper-boats/precache-manifest.0d249ec2b5a12571ccc7f5b891fc9f4c.js"
+  "/deeper-boats/precache-manifest.6b852b388a46b6aa5ed7d816fabce04e.js"
 );
 
 workbox.clientsClaim();
